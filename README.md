@@ -8,4 +8,4 @@ A new repository was created and updated via git and deployed via github pages.
 
 ## URL
 
-https://cen-todaysearch031722.splashthat.com/bcs
+https://jdmill.github.io/02-Homework/
