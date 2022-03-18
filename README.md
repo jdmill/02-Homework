@@ -8,4 +8,4 @@ A new repository was created and updated via git and deployed via github pages.
 
 ## URL
 
-https://jdmill.github.io/02-Homework/
+https://jdmill.github.io/millers-burgers
